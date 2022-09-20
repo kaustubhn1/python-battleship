@@ -6,6 +6,8 @@
 $ pip install -r requirements.txt
 ```
 #
+### Add the .env file in the battleship folder
+#
 #### Run the project
 ```console
 $ python3 manage makemigrations
